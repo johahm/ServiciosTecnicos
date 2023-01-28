@@ -12,7 +12,7 @@ body {
      height:300px;
      width:1350px;
      text-align:center;
-     background: url(/img/fondo1.jpg);
+     background: url('img/fondo1.jpg');
 }
 h1 {
     font-size: 40px;
