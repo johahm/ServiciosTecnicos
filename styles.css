@@ -28,7 +28,7 @@ h1 {
   width:800px;
   margin:0px auto;
   padding: 2px;
-  background-image: url(/img/fondo1.jpg);
+  background-image: url('img/fondo1.jpg');
   
 }
 
