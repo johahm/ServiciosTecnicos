@@ -1,5 +1,5 @@
 body {
-    background-image: url(imagen.jpeg);
+    background-image: url(/imagen.jpeg);
     background-size: cover;
     font-family: "Geneva"; 
     background-repeat: no-repeat; 
