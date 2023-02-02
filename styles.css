@@ -353,18 +353,18 @@ h2 {
     padding: 0;
 }
 H4 {
-    font-size: 20px;
-    color: rgb(247, 4, 4);
-    border-color: rgb(18, 17, 17);
+    font-size: 25px;
+    color: rgb(231 24 24);
+    border-color: rgb(23 23 26 / 96%); 
     border-width: 2px;
     border-style: solid;
     text-shadow:  1px 0 #fff, -2px 0 #fff, 0 1px #fff, 0 -2px #fff,
                1px 1px #fff, -1px -1px #fff, 1px -1px #fff, -1px 1px #fff;
     background-color: rgba(16, 16, 18, 0.765); 
-    width: 280px;
+    width: 200px;
     border-radius: 5px;
     padding: 3px;
-    margin: 4px 40px 0;
+    margin: 40px;
 }
 .container-boton{
     background-color: #2e6329;
