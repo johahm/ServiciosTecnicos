@@ -322,11 +322,12 @@ h1 {
     opacity: 1;
   }
 h5 {
+    background-color: rgba(128, 128, 128, 0.58);
     font-size: 18px;
     justify-content: center;
     align-items: center;
     padding: 3px; 
-    width: 300px;
+    width: 450px;
     margin: 0%;
     font-style: italic;
     color:black ;
