@@ -220,11 +220,9 @@ h2 {
     margin: auto;
   }
 #contenedor-padre {
-  background-image: url('imagen.jpeg');
   display: grid;
   place-items: center; 
-  text-align: center;
-  background-repeat: no-repeat;    
+  text-align: center;    
 }
 .carousel-wrapper {
   height: 330px;
