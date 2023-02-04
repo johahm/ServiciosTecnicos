@@ -3,7 +3,7 @@
 }
 body {
   background-color: #696631;
-  background-image: url('/img/imagen.jpeg');
+  background-image: url('imagen.jpeg');
   background-repeat: no-repeat; 
   background-size:cover;
   background-attachment: fixed;
@@ -90,23 +90,23 @@ place-items: center;
 .item-1 {
   z-index: 2;
   opacity: 1;
-  background: url('/img/tina1.jpg');
+  background: url('tina1.jpg');
   background-size: cover;
 }
 .item-2 {
-  background: url('/img/lava4.jpg');
+  background: url('lava4.jpg');
   background-size: cover;
 }
 .item-3 {
-  background: url('/img/tecnico.jpg');
+  background: url('tecnico.jpg');
   background-size: cover;
 }
 .item-4 {
-  background: url('/img/lava2.jpg');
+  background: url('lava2.jpg');
   background-size: cover;
 }
 .item-5 {
-  background: url('/img/lava5.jpg');
+  background: url('lava5.jpg');
   background-size: cover;
 }
 *:target ~ .item-1{
@@ -211,7 +211,7 @@ h2 {
   }
   body {
     background-color: #696631;
-    background-image: url('/img/imagen.jpeg');
+    background-image: url('imagen.jpeg');
     background-repeat: no-repeat; 
     background-size:cover;
     background-attachment: fixed;
@@ -220,7 +220,7 @@ h2 {
     margin: auto;
   }
 #contenedor-padre {
-  background-image: url('/img/imagen.jpeg');
+  background-image: url('imagen.jpeg');
   display: grid;
   place-items: center; 
   text-align: center;
@@ -306,23 +306,23 @@ padding:2px;
 .item-1 {
   z-index: 2;
   opacity: 1;
-  background: url('/img/tina1.jpg');
+  background: url('tina1.jpg');
   background-size: cover;
 }
 .item-2 {
-  background: url('/img/lava4.jpg');
+  background: url('lava4.jpg');
   background-size: cover;
 }
 .item-3 {
-  background: url('/img/tecnico.jpg');
+  background: url('tecnico.jpg');
   background-size: cover;
 }
 .item-4 {
-  background: url('/img/lava2.jpg');
+  background: url('lava2.jpg');
   background-size: cover;
 }
 .item-5 {
-  background: url('/img/lava5.jpg');
+  background: url('lava5.jpg');
   background-size: cover;
 }
 *:target ~ .item-1{
