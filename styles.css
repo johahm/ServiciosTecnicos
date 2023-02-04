@@ -90,7 +90,7 @@ place-items: center;
 .item-1 {
   z-index: 2;
   opacity: 1;
-  background: url('tina1.jpg');
+  background: url('tecnico.jpg');
   background-size: cover;
 }
 .item-2 {
@@ -98,7 +98,7 @@ place-items: center;
   background-size: cover;
 }
 .item-3 {
-  background: url('tecnico.jpg');
+  background: url('tina1.jpg');
   background-size: cover;
 }
 .item-4 {
