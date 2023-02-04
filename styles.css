@@ -227,7 +227,7 @@ h2 {
 .carousel-wrapper {
   height: 330px;
   position: relative;
-  width:300px;
+  width:80%;
   display: block;
   margin: 10px 30px 0;
   border: 2px solid black;
