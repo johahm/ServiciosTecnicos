@@ -157,12 +157,8 @@ h2 {
   /*margin-left: 700px;*/
   font-size: 25px;
   color: rgb(248, 245, 245);
-  border-color: rgb(18, 17, 17);
-  border-width: 3px;
-  border-style: solid;
   text-shadow:  1px 0 rgb(65, 13, 223);
   width: 280px;
-  border-radius: 5px;
   padding: 13px;
   display: grid;
   place-items: center;
@@ -406,13 +402,8 @@ h2 {
 #contacto h4 {
   font-size: 20px;
   color: rgb(248, 245, 245);
-  border-color: rgb(18, 17, 17);
-  border-width: 3px;
-  border-style: solid;
   text-shadow:  1px 0 rgb(65, 13, 223);
-  
   width: 150px;
-  border-radius: 5px;
   padding: 2px;
   margin: 2px 2px 0;
   place-items: center;
